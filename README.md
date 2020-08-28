@@ -24,3 +24,11 @@ An application that allows multiple users to access the application at once, and
   * Can a user apply effects to their chosen voice? can those be toggled with key commands?
 
 * When accessing the app on a touch screen device, can we implement some sort of Kaoss pad control interface?
+
+## Docs for Research
+
+### Web Audio API --->
+
+* [MDN Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+
+### Web MIDI API --->
