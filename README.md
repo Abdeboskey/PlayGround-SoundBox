@@ -25,6 +25,8 @@ An application that allows multiple users to access the application at once, and
 
 * When accessing the app on a touch screen device, can we implement some sort of Kaoss pad control interface?
 
+* Can we also incorporate visual changes that respond to audio input/output?
+
 ## Docs for Research
 
 ### Web Audio API --->
