@@ -38,7 +38,7 @@ An application that allows multiple users to access the application at once, and
 
 ### Web MIDI API --->
 
-* [Official Web Midi API Docs?] (https://www.w3.org/TR/webmidi/)
+* [Official Web Midi API Docs?](https://www.w3.org/TR/webmidi/)
 * [Article on using MIDI to trigger web-audio events](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
 
 
