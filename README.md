@@ -16,8 +16,8 @@ An application that allows multiple users to access the application at once, and
 * What types of sound events are available to us? 
 
   * Can a user choose a voice?
-   - You can generate different waveforms with the web audio API
-   - Can we also use samples with audio nodes?
+    - You can generate different waveforms with the web audio API
+    - Can we also use samples with audio nodes?
   * Can a soundBox have a set key?
   * Is there looping capability?
   * Can we map a piano keyboard onto the computer's keyboard? 
