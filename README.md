@@ -1,8 +1,8 @@
-# Pl▶️yGround/SoundBox
+# ▶️Ground/SoundBox
 
 An application that allows multiple users to access the application at once, and use browser events to trigger MidiEvents/Genarate sound with the Audio API. 
 
-### User Stories
+## User Stories
 
 * When logged in, A user should be able to have friends, and start SoundBoxes (breakout rooms) with friends to have private jam sessions.
 * A user can also create a public SoundBox that any online user can join.
@@ -16,6 +16,8 @@ An application that allows multiple users to access the application at once, and
 * What types of sound events are available to us? 
 
   * Can a user choose a voice?
+   - You can generate different waveforms with the web audio API
+   - Can we also use samples with audio nodes?
   * Can a soundBox have a set key?
   * Is there looping capability?
   * Can we map a piano keyboard onto the computer's keyboard? 
