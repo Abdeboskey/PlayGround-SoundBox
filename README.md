@@ -32,7 +32,10 @@ An application that allows multiple users to access the application at once, and
 ### Web Audio API --->
 
 * [MDN Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+* [Creating Visualizations of Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API)
 
 ### Web MIDI API --->
 
 * [Article on using MIDI to trigger web-audio events](https://medium.com/swinginc/playing-with-midi-in-javascript-b6999f2913c3)
+
+
